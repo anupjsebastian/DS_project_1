@@ -2,7 +2,7 @@
 
 ## Obtaining Data
 
-We started with obtaining the top 200 movies for 2015, 2016, 2017 and 2018, as well as the top 600 for 2019 from Box office mojo by copying them to csv files. 
+We started with obtaining the top 200 movies for 2015, 2016, 2017 and 2018, as well as the top 600 for 2019 from Box office mojo by copying data to csv files. 
 
 The names of the movies were then extracted and formatted correctly so that the rest of the required information could be obtained using the OMBD API. This was done in the Notebook Obtaining Data using OMDB API.ipynb.
 
